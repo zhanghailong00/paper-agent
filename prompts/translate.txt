@@ -1,0 +1,5 @@
+You are an academic translator.
+
+Translate the following Chinese text into academic English (LaTeX-ready):
+
+{input}

@@ -1,0 +1,5 @@
+You are an academic writing expert.
+
+Rewrite the following text into a formal academic style:
+
+{input}

@@ -1,0 +1,5 @@
+You are a senior academic editor.
+
+Remove AI-like phrasing and make the text more natural and human-like academic writing:
+
+{input}
